@@ -1,0 +1,101 @@
+{
+  "siteTitle": "投标技术标共享平台",
+  "siteSubtitle": "往期技术标文档分类归档 · 方便团队查阅分享",
+  "categories": [
+    {
+      "id": "progress", "name": "进度保证措施", "icon": "📅", "description": "项目进度计划、里程碑节点、工期保障方案等", "color": "#3b82f6",
+      "plans": [
+        { "id": "plan-p1", "name": "方案一", "description": "基于传统施工工艺的进度管理方案",
+          "documents": [
+            { "id": "doc-pp1-1", "title": "XX项目进度管理方案", "description": "包含完整的施工进度计划网络图及关键路径分析", "date": "2026-03-15", "file": "docs/progress/XX项目进度管理方案.html", "tags": ["进度计划", "网络图"] }
+          ]
+        },
+        { "id": "plan-p2", "name": "方案二", "description": "基于装配式建筑的快速施工进度方案",
+          "documents": [
+            { "id": "doc-pp2-1", "title": "工期保障专项措施", "description": "针对极端天气、材料供应等风险因素的工期保障预案", "date": "2026-01-20", "file": "docs/progress/工期保障专项措施.html", "tags": ["工期保障", "应急预案"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "service", "name": "服务保证措施", "icon": "🤝", "description": "售后服务承诺、响应机制、服务质量保障体系", "color": "#10b981",
+      "plans": [
+        { "id": "plan-s1", "name": "方案一", "description": "标准化售后服务方案",
+          "documents": [
+            { "id": "doc-ps1-1", "title": "售后服务承诺书", "description": "质保期内服务响应时间、维修更换标准及服务流程", "date": "2026-04-10", "file": "docs/service/售后服务承诺书.html", "tags": ["售后", "质保"] }
+          ]
+        },
+        { "id": "plan-s2", "name": "方案二", "description": "增值服务保障方案",
+          "documents": [
+            { "id": "doc-ps2-1", "title": "服务质量保障体系", "description": "ISO质量管理体系在服务过程中的应用与管控节点", "date": "2026-02-28", "file": "docs/service/服务质量保障体系.html", "tags": ["质量体系", "ISO"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "integrity", "name": "廉洁措施", "icon": "🛡️", "description": "廉洁自律承诺、反腐倡廉制度、廉洁风险防控方案", "color": "#ef4444",
+      "plans": [
+        { "id": "plan-i1", "name": "方案一", "description": "廉洁自律承诺方案",
+          "documents": [
+            { "id": "doc-pi1-1", "title": "廉洁自律承诺书", "description": "项目参与各方廉洁从业承诺及监督机制", "date": "2026-03-01", "file": "docs/integrity/廉洁自律承诺书.html", "tags": ["廉洁承诺", "监督"] }
+          ]
+        },
+        { "id": "plan-i2", "name": "方案二", "description": "廉洁风险防控方案",
+          "documents": [
+            { "id": "doc-pi2-1", "title": "廉洁风险防控方案", "description": "招标投标环节廉洁风险识别及防控措施", "date": "2026-01-15", "file": "docs/integrity/廉洁风险防控方案.html", "tags": ["风险防控", "合规"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quality", "name": "质量管理措施", "icon": "✅", "description": "质量管理体系、质量保证措施、验收标准方案", "color": "#8b5cf6",
+      "plans": [
+        { "id": "plan-q1", "name": "方案一", "description": "全过程质量管控方案",
+          "documents": [
+            { "id": "doc-pq1-1", "title": "项目质量管理计划", "description": "全过程质量控制节点、检验标准及责任人制度", "date": "2026-04-05", "file": "docs/quality/项目质量管理计划.html", "tags": ["质量计划", "控制节点"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "safety", "name": "安全管理措施", "icon": "⚠️", "description": "安全生产责任制、安全专项方案、应急预案", "color": "#f59e0b",
+      "plans": [
+        { "id": "plan-a1", "name": "方案一", "description": "标准化安全管理方案",
+          "documents": [
+            { "id": "doc-pa1-1", "title": "安全生产管理方案", "description": "施工安全管理体系、危险源辨识及分级管控", "date": "2026-03-20", "file": "docs/safety/安全生产管理方案.html", "tags": ["安全生产", "危险源"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tech", "name": "技术实施方案", "icon": "🔧", "description": "施工组织设计、关键技术方案、工艺工法说明", "color": "#06b6d4",
+      "plans": [
+        { "id": "plan-t1", "name": "方案一", "description": "常规技术实施方案",
+          "documents": [
+            { "id": "doc-pt1-1", "title": "施工组织设计方案", "description": "总体施工部署、资源配置、施工区段划分及工艺流程", "date": "2026-02-10", "file": "docs/tech/施工组织设计方案.html", "tags": ["施组", "工艺流程"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team", "name": "项目团队配置", "icon": "👥", "description": "项目组织架构、关键人员资历、团队管理方案", "color": "#ec4899",
+      "plans": [
+        { "id": "plan-e1", "name": "方案一", "description": "核心团队配置方案",
+          "documents": [
+            { "id": "doc-pe1-1", "title": "项目团队组织方案", "description": "项目组织架构图、各岗位职责说明及人员配置计划", "date": "2026-01-10", "file": "docs/team/项目团队组织方案.html", "tags": ["组织架构", "人员配置"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "emergency", "name": "应急预案", "icon": "🚨", "description": "各类突发事件应急预案、保障措施及演练方案", "color": "#6366f1",
+      "plans": [
+        { "id": "plan-r1", "name": "方案一", "description": "综合应急响应方案",
+          "documents": [
+            { "id": "doc-pr1-1", "title": "综合应急预案", "description": "自然灾害、事故灾难、公共卫生等突发事件应急响应方案", "date": "2026-04-01", "file": "docs/emergency/综合应急预案.html", "tags": ["应急响应", "综合预案"] }
+          ]
+        }
+      ]
+    }
+  ]
+}
