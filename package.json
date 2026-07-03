@@ -1,0 +1,10 @@
+﻿{
+  "name": "bid-share-server",
+  "version": "1.0.0",
+  "description": "投标技术标共享平台 - 云端服务器",
+  "main": "cloud-server.js",
+  "scripts": {
+    "start": "node cloud-server.js"
+  },
+  "dependencies": {}
+}
